@@ -1,0 +1,7 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30302">
+        <setting id="stop_time" type="time" label="30303" default="13:13"/>
+    </category>
+</settings>
